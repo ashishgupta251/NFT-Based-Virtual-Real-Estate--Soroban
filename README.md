@@ -20,7 +20,7 @@
 
 </p>
 
-<img src="assets/nft-cover" width="95%">
+<img src="assets/nft-cover.png" width="80%">
 
 </div>
 
