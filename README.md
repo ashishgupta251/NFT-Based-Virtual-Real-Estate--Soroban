@@ -2,7 +2,7 @@
 
 # 🪙 NFT-Based Virtual Real Estate
 
-### A Decentralized Digital Property Marketplace Built on Stellar Soroban
+### Decentralized Digital Property Marketplace on Stellar Soroban
 
 <p>
 
@@ -11,16 +11,14 @@
 </a>
 
 <a href="LICENSE">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
 </a>
 
-<img src="https://img.shields.io/badge/Stellar-Soroban-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Stellar-Soroban-0EA5E9?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Rust-Programming-black?style=for-the-badge&logo=rust">
 
 </p>
-
-<img src="assets/preview.png" width="100%">
 
 </div>
 
@@ -28,19 +26,68 @@
 
 ## 📖 Overview
 
-NFT-Based Virtual Real Estate is a decentralized application that demonstrates how digital land ownership can be managed on the **Stellar Soroban** blockchain using smart contracts written in **Rust**.
+**NFT-Based Virtual Real Estate** is a blockchain-based project that demonstrates how virtual properties can be represented as **Non-Fungible Tokens (NFTs)** using **Stellar Soroban Smart Contracts**.
 
-The project showcases the core concepts of blockchain-based property ownership, allowing virtual real estate assets to be represented as NFTs while ensuring transparency, security, and decentralized control.
+The project combines blockchain technology with a responsive web interface to showcase secure, transparent, and decentralized ownership of digital real estate assets.
 
 ---
 
 ## ✨ Key Features
 
-- 🏡 NFT-based virtual property ownership
-- ⛓️ Smart contract powered by Stellar Soroban
-- 🔒 Secure decentralized asset management
-- ⚡ Rust-based contract implementation
-- 🌍 Web interface for interacting with the project
-- 📱 Responsive frontend
+- 🏡 NFT-based Virtual Property Ownership
+- ⛓️ Stellar Soroban Smart Contract
+- 🦀 Rust-powered Contract Logic
+- 🔒 Secure Decentralized Asset Management
+- 🌐 Responsive Web Interface
+- ⚡ Lightweight & Modular Architecture
 
 ---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| Category | Technology |
+|----------|------------|
+| Smart Contract | Rust |
+| Blockchain | Stellar Soroban |
+| Frontend | HTML • CSS • JavaScript |
+| Version Control | Git & GitHub |
+
+</div>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="assets/preview.png" width="95%">
+
+</p>
+
+---
+
+## 🌍 Live Demo
+
+🔗 **Website**
+
+https://ashishgupta251.github.io/NFT-Based-Virtual-Real-Estate--Soroban/
+
+---
+
+## 📂 Repository
+
+🔗 **GitHub**
+
+https://github.com/ashishgupta251/NFT-Based-Virtual-Real-Estate--Soroban
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a star.
+
+Made with ❤️ by **Ashish Gupta**
+
+</div>
